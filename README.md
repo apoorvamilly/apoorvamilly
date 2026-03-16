@@ -34,11 +34,13 @@ and building a home SIEM lab with Elastic.
 | SOC Level 1 | TryHackMe | In progress |
 | Google Cybersecurity Certificate | Coursera | In progress |
 | Security Analyst | Blue Team Labs Online | Active |
+|Pre-Security| TryHackMe | Completed |
 
 ---
 
 ## My TryHackMe Profile
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/apoorvamilly.png)](https://tryhackme.com/p/apoorvamilly)
+
 
 
 ## Connect with me
