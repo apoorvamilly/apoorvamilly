@@ -34,7 +34,7 @@ and building a home SIEM lab with Elastic.
 | SOC Level 1 | TryHackMe | In progress |
 | Google Cybersecurity Certificate | Coursera | In progress |
 | Security Analyst | Blue Team Labs Online | Active |
-|Pre-Security| TryHackMe | Completed |
+|Pre-Security| TryHackMe | Completed Jan 10 2026 |
 
 ---
 
