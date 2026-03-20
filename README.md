@@ -11,20 +11,10 @@ and building a home SIEM lab with Elastic.
 ## What I'm learning right now
 - SOC101 / SOC Level 1 on TryHackMe
 - SIEM fundamentals (Elastic / Splunk)
-- MITRE ATT&CK framework
-- Phishing analysis & email header investigation
 - Wireshark — network traffic analysis
 
 ---
 
-## Projects
-| Project | Description |
-|---|---|
-| [SOC Home Lab](link-here) | Elastic SIEM + detection rules |
-| [Phishing Investigation](link-here) | End-to-end email analysis |
-| [Learning Journal](link-here) | Daily notes from my training |
-
-*(Projects being added as I build them — check back!)*
 
 ---
 
@@ -32,8 +22,6 @@ and building a home SIEM lab with Elastic.
 | Credential | Platform | Status |
 |---|---|---|
 | SOC Level 1 | TryHackMe | In progress |
-| Google Cybersecurity Certificate | Coursera | In progress |
-| Security Analyst | Blue Team Labs Online | Active |
 |Pre-Security| TryHackMe | Completed Jan 10 2026 |
 
 ---
